@@ -1,4 +1,4 @@
-# LAB AP-9 2025
+# LAB AP-5 2026
 Repositori ini adalah tempat pengumpulan tugas-tugas praktikum mulai dari praktikum pertama hingga tugas final mata kuliah Praktikum Algoritma & Pemrograman 2025.
 
 ## Cara Pengumpulan
